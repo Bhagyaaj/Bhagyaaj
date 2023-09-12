@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhagyaaj
-- 👀 I’m interested in designing and developing softwares(learning to)
-- 🌱 I’m currently pursuing my undergraduation of Btech in Computer Science
+- 👀 I’m interested in designing and developing softwares(learning to) and I'm a fullstack web development learner
+- 🌱 I’m currently pursuing my undergraduation of Btech in Computer Science and Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me:..... 
 
